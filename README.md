@@ -78,3 +78,23 @@
 **The result is copied to the user's clipboard**
 
 ---
+
+<br>
+
+# Adjust Clipboard
+
+This workflow runs the Shortcut "Adjust Clipboard"
+
+
+## Requirements
+
+- The [Shortcuts App](https://apps.apple.com/us/app/shortcuts/id1462947752) must be installed
+- The Shortcut [Adjust Clipboard](https://www.icloud.com/shortcuts/b965d9a27dde4a32ae0d9548d64dd71e) must be added to your Shortcuts Library
+
+## Usage
+
+`adj`
+
+## Demonstration
+
+![Demo Usage](Media/Adjust%20Clipboard%20Demo.gif)
